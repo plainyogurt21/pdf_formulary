@@ -1,0 +1,32 @@
+# Environment files
+.env
+.env.local
+.env.*
+*.env
+
+# Text files
+*.txt
+*.log
+*.csv
+*.dat
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Cache and build directories
+/node_modules
+/.cache
+/dist
+/build
+/tmp
+/temp
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
